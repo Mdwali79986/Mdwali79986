@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Data Science Enthusiast & CSE Student at KIIT</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV3ZGFoOHJsZDIycWgwZ3cxaG9xenZ1eTZ0eXF5ZWpzdTR5dnZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWV3ZGFoOHJsZDIycWgwZ3cxaG9xenZ1eTZ0eXF5ZWpzdTR5dnZ2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200" />
 </p>
 
 ---
