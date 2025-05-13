@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&width=435&lines=Hi%2C+I'm+Mohammad+Wali;A+Passionate+Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C8FF&width=435&lines=Hi%2C+I'm+Mohammad+Wali;A+Passionate+Datascience Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
