@@ -9,12 +9,9 @@
 
 ---
 
-## 👨‍💻 About Me
+ 💫 About Me:
+🎓 Currently pursuing B.Tech in Computer Science & Engineering at KIIT, Bhubaneswar<br>🔭 I’m working on projects in Data Science and Analytics<br>🌱 I’m currently learning Machine Learning, Power BI, SQL, and Advanced Python<br>💡 Passionate about transforming data into impactful insights<br>🧠 Curious about AI, Big Data, and Predictive Modeling<br>📫 How to reach me: mdwali79986@gmail.com<br>🌍 From Ranchi, Jharkhand
 
-- 🎓 Software Developer | Tech Enthusiast | Lifelong Learner  
-- 🌐 Working with technologies like React, **Node.js, **MongoDB, **JavaScript, and more.  
-- ✨ Passionate about building scalable web apps and learning new tools & technologies.  
-- 🧠 Currently exploring advanced backend development and cloud deployment.
 
 ---
 
