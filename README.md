@@ -11,11 +11,11 @@
 
 ## 💫 About Me
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering** at **KIIT, Bhubaneswar**  
-- 🔭 Working on **Data Science & Analytics** projects  
+- 🚀 Working on **Data Science & Analytics** projects  
 - 🌱 Currently learning **Machine Learning, Power BI, SQL, Advanced Python**  
 - 💡 Passionate about **Data-Driven Insights & Predictive Modeling**  
 - 🧠 Curious about **AI, Big Data, Cloud, and Visualization**  
-- 📫 Reach me at: **mdwali79986@gmail.com**  
+- 📢 Reach me at: **mdwali79986@gmail.com**  
 - 🌍 Based in **Ranchi, Jharkhand**  
 
 ---
@@ -68,6 +68,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mdwali79986&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>  
+</p>
 
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Mdwali79986.visitor-badge" alt="Visitor Map" />
+</p>
 
