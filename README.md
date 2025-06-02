@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Gif" />
+  <img src="https://giphy.com/gifs/Giflytics-abjahanbin-FoVzfcqCDSb7zCynOp" width="400" alt="Coding Gif" />
 </p>
 
 ---
