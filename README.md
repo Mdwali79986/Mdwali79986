@@ -66,11 +66,14 @@
 
 ---
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mdwali79986&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 </p>
 
+
 <p align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=Mdwali79986.visitor-badge" alt="Visitor Map" />
 </p>
+
 
