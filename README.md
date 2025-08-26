@@ -20,6 +20,15 @@
 
 ---
 
+## 🏙️ Location & Time  
+<p align="center">
+  <img src="https://img.shields.io/badge/🌍_Location-Ranchi,_Jharkhand-blue?style=for-the-badge" />
+  <br><br>
+  ⏰ Current Time (IST): <!-- TIME-PLACEHOLDER -->
+</p>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,git,github,sql" alt="Tech Stack Icons" />
@@ -55,27 +64,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mdwali79986&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdwali79986/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:mdwali79986@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Mdwali79986"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mdwali79986&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</p>
-
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Mdwali79986.visitor-badge" alt="Visitor Map" />
-
-</p>
 
 
 
